@@ -20,7 +20,7 @@ Console-based app with two roles server and the client. The server must be start
 
 - The client sends the request to the server to get the proper answer. The client has options page (- p) to get the statistical data. All the cacluation is done on the server side.
 
-> Server is possible to carry out several clients conccurently without delays because of [threading](https://docs.python.org/3/library/threading.html) module used to accept connections
+> Server is able to carry out several clients conccurently without delays because of [threading](https://docs.python.org/3/library/threading.html) module used to accept connections
 
 ## Perequisites 
 * Python 3
